@@ -41,7 +41,7 @@ class FruitEaten extends Component {
     };
   }
 
-  componentWillMount() {
+  componentDidMount() {
     // Assume that this fetch function is a Promise that
     // can go over the internet.
     fetch('/api/fruit?eaten=true')
@@ -93,7 +93,7 @@ class App extends Component {
     };
   }
 
-  componentWillMount() {
+  componentDidMount() {
     this.updateFruitList();
   }
 
