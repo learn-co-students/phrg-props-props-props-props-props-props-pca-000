@@ -124,3 +124,4 @@ Mad props to props!
 - [Props vs. State](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/props-props-props-props-props-props'>Props Props Props</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Props Props Props Props Props Props</p>
